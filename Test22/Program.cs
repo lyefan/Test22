@@ -10,6 +10,7 @@ namespace Test22
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
